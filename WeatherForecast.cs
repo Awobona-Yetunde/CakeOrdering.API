@@ -2,6 +2,7 @@ namespace CakeOrdering.API
 {
     public class WeatherForecast
     {
+        // Testing
         public DateTime Date { get; set; }
 
         public int TemperatureC { get; set; }
